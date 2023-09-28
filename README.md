@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 💬 Ask me about **ML,VBA**
+- 💬 Ask me about **ML,Data Science,VBA**
 
 - 📫 How to reach me **gulamnizam1998@gmail.com**
 

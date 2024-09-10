@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gulamnizam1998@gmail.com**
 
-- ⚡ Fun fact **I think i can do better with problem statement**
+<!--- ⚡ Fun fact **I think i can do better with problem statement**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

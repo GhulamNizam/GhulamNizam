@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM... )](https://GhulamNizam.io)-->
 <h1 align="center">Hi 👋, I'm Ghulam Nizamuddin</h1>
-<h3 align="center">exploring the world of Machine learning and Data Science</h3>
+<h3 align="center">exploring the world of Data</h3>
 <img align ="right" alt = "Coding" width ="400" src = "https://cdn.dribbble.com/users/1081898/screenshots/6068596/01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamnizam&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamnizam" /> </p>
